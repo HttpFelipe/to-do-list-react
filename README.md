@@ -2,7 +2,7 @@
 
 Esta é uma lista de tarefas construída em React.
 
-## Conferir: https://httpfelipe.github.io/quiz/
+## Conferir: https://httpfelipe.github.io/to-do-list-react/
 
 ## Funcionalidades
 
